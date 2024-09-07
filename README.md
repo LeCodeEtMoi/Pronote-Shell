@@ -40,6 +40,28 @@ python script.py
 
 Vous pouvez ajuster les dates de début et de fin des vacances dans le script à l'aide des variables date_debut et date_fin.
 
+## Bonus 
+
+Si vous avez le shell [Fish](https://fishshell.com/) vous pouvez faire en sorte que des que vous lancer votre shell le scripte s'execute . 
+
+```bash
+cd ~/.config/fish/
+
+```
+
+```bash
+nano config.fish
+```
+
+Puis ajouter la ligne à la suite 
+
+```bash
+python shell.py
+```
+
+Attention votre script shell.py doit doit être à la racine **~**
+
+
 
 ## Contribuer
 
