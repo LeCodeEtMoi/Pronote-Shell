@@ -11,7 +11,7 @@ Le projet "Pronote-Shell" permet aux utilisateurs d'accéder à leurs devoirs et
 ## Prérequis
 
 - Python 3.x
-- La bibliothèque `pronotepy` (installez-la avec `pip install pronotepy` ou pour arch linux `sudo pacman -S python-pronotepy)
+- La bibliothèque `pronotepy` (installez-la avec `pip install pronotepy` ou pour arch linux `sudo pacman -S python-pronotepy`)
 
 ## Installation
 
